@@ -2,14 +2,14 @@
 - degree: Bachelor 3 DevOps initiale
   uni: Epsi Rennes
   year: Octobre 2020 à Septembre 2021
-  awards: 🏆 vainqueur national du workshop Epsi
-    - award: Summa Cumme Laude graduate
+  awards:
+    - award: 🏆 vainqueur national du workshop Epsi
   summary: If you had any meaningful roles at college, feel free to write about them here
 
 - degree: Poei Consultant DevOps infrastructure
   uni: zenika / Capgemini Rennes
   year: 16/09/2019 au 20/12/2019
-  award: 
+  award:
 
 - degree: Corsaire saison 7 Paris
   uni: The Hacking Project / dev fullstack ruby on rails
