@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar: "true"
 resume_name: "Xavier Refour"
-resume_title: "👨‍💻  À la recherche d'une oportunité en administration systèmes."
+resume_title: "👨‍💻  À la recherche d'une opportunité en administration systèmes."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "xavier.refour@pm.me"
